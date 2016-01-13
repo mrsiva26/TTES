@@ -1,0 +1,354 @@
+Alignment	1	1.0	1.0	0.0	1.0
+raam went to market .
+raam went to market .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	2	1.0	1.0	0.5364677763947887	0.4635322236052113
+he acquired fruits a number of .
+he acquired a number of fruits .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			3:1			0		1.0
+3:1			4:1			0		1.0
+4:1			5:1			0		1.0
+5:1			2:1			0		1.0
+6:1			6:1			0		1.0
+
+Alignment	3	0.6666666666666666	0.7777777777777778	0.5532647468890366	0.3389860999215983
+he ate fruits , came monkey during then .
+a monkey came while he ate fruits .
+Line2Start:Length	Line1Start:Length	Module		Score
+1:1			5:1			0		1.0
+2:1			4:1			0		1.0
+4:1			0:1			0		1.0
+5:1			1:1			0		1.0
+6:1			2:1			0		1.0
+7:1			8:1			0		1.0
+
+Alignment	4	0.8888888888888888	0.7272727272727273	0.5664525067769411	0.32414765848453003
+they plucked fruits that .
+they plucked those fruits .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+3:1			2:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	5	0.9166666666666666	1.0	0.5738114998740221	0.42045502254580774
+he went sadly to home .
+he went home sadly .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			4:1			0		1.0
+3:1			2:1			0		1.0
+4:1			5:1			0		1.0
+
+Alignment	6	1.0	1.0	0.0	1.0
+she laughed
+she laughed
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+
+Alignment	7	1.0	1.0	0.0	1.0
+he will read book .
+he will read book .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	8	1.0	1.0	0.5223303379776745	0.4776696620223255
+in anger he bawled
+he bawled in anger
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			2:1			0		1.0
+1:1			3:1			0		1.0
+2:1			0:1			0		1.0
+3:1			1:1			0		1.0
+
+Alignment	9	1.0	1.0	0.0	1.0
+she cried in grief .
+she cried in grief .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	10	1.0	1.0	0.0	1.0
+she is thamizharasi .
+she is thamizharasi .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+
+Alignment	11	1.0	1.0	0.0	1.0
+she jumped in joy .
+she jumped in joy .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	12	0.5333333333333333	0.7272727272727273	0.5664525067769411	0.29899827118831646
+during february he ceased to exist .
+he died during february .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			2:1			0		1.0
+2:1			0:1			0		1.0
+3:1			1:1			0		1.0
+4:1			6:1			0		1.0
+
+Alignment	13	1.0	0.8888888888888888	0.5223303379776745	0.43179178487893827
+he learned book .
+he learned a book .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+3:1			2:1			0		1.0
+4:1			3:1			0		1.0
+
+Alignment	14	1.0	1.0	0.0	1.0
+he stood in step .
+he stood in step .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	15	1.0	1.0	0.0	1.0
+they go to shop .
+they go to shop .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	16	1.0	1.0	0.0	1.0
+i walked from kanniyaakumari to sennai .
+i walked from kanniyaakumari to sennai .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+5:1			5:1			0		1.0
+6:1			6:1			0		1.0
+
+Alignment	17	1.0	1.0	0.0	1.0
+what did she do ?
+what did she do ?
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	18	1.0	1.0	0.0	1.0
+kannaki parched mathurai .
+kannaki parched mathurai .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+
+Alignment	19	1.0	1.0	0.0	1.0
+vasanhth emerged fast .
+vasanhth emerged fast .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+
+Alignment	20	1.0	1.0	0.0	1.0
+hanuman gave ring
+hanuman gave ring
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+
+Alignment	21	1.0	1.0	0.0	1.0
+kaaveeri saw ghost .
+kaaveeri saw ghost .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+
+Alignment	22	1.0	1.0	0.0	1.0
+what did she do like that ?
+what did she do like that ?
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+5:1			5:1			0		1.0
+6:1			6:1			0		1.0
+
+Alignment	23	1.0	0.9090909090909091	0.4816449370561384	0.4777466017915775
+i will learn in morning .
+i will learn in the morning .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+5:1			4:1			0		1.0
+6:1			5:1			0		1.0
+
+Alignment	24	1.0	1.0	0.0	1.0
+she is an epic .
+she is an epic .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+
+Alignment	25	0.9142857142857144	0.9142857142857144	0.0	0.9142857142857143
+kaaveeri saw a terrific ghosts .
+kaaveeri saw a terrific ghost .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			1		1.0
+5:1			5:1			0		1.0
+
+Alignment	26	0.72	1.0	0.5223303379776745	0.4513414129344808
+they came this hands written letter to us during morning .
+this letter came to us during morning .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			2:1			0		1.0
+1:1			5:1			0		1.0
+2:1			1:1			0		1.0
+3:1			6:1			0		1.0
+4:1			7:1			0		1.0
+5:1			8:1			0		1.0
+6:1			9:1			0		1.0
+7:1			10:1			0		1.0
+
+Alignment	27	0.8235294117647058	1.0	0.4816449370561384	0.5022125177310769
+they cracked worse chaoses during yesterday .
+they cracked worse chaoses yesterday .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			5:1			0		1.0
+5:1			6:1			0		1.0
+
+Alignment	28	0.7272727272727273	0.8421052631578947	0.5664525067769411	0.35664575277989413
+in rain he went , fell tree during then .
+while he went in rain , tree fell .
+Line2Start:Length	Line1Start:Length	Module		Score
+1:1			2:1			0		1.0
+2:1			3:1			0		1.0
+3:1			0:1			0		1.0
+4:1			1:1			0		1.0
+5:1			4:1			0		1.0
+6:1			6:1			0		1.0
+7:1			5:1			0		1.0
+8:1			9:1			0		1.0
+
+Alignment	29	0.9411764705882353	1.0	0.4547149699531194	0.5402204632043399
+mahaapararatham is a epic and that codes of laws
+mahaapararatham is a epic and codes of laws
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+5:1			6:1			0		1.0
+6:1			7:1			0		1.0
+7:1			8:1			0		1.0
+
+Alignment	30	1.0	1.0	0.0	1.0
+a king lived in a city .
+a king lived in a city .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			0		1.0
+5:1			5:1			0		1.0
+6:1			6:1			0		1.0
+
+Alignment	31	0.7142857142857143	0.7142857142857143	0.5664525067769411	0.3096767808736135
+that boxes painted red color .
+those boxes were painted red .
+Line2Start:Length	Line1Start:Length	Module		Score
+1:1			1:1			0		1.0
+3:1			2:1			0		1.0
+4:1			3:1			0		1.0
+5:1			5:1			0		1.0
+
+Alignment	32	0.5714285714285714	0.6153846153846154	0.5664525067769411	0.26375512895699404
+he came across loss money .
+he met with loss of money .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+3:1			3:1			0		1.0
+5:1			4:1			0		1.0
+6:1			5:1			0		1.0
+
+Alignment	33	0.6666666666666666	0.8888888888888888	0.5223303379776745	0.40437643345805335
+she gave that gals decision .
+she gave a decision .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+3:1			4:1			0		1.0
+4:1			5:1			0		1.0
+
+Alignment	34	0.7181818181818183	0.8777777777777778	0.46702232493070245	0.45274447667176887
+he told whole heartedly thank you boy to kuruvu .
+he told whole heartedly thanked the kuruvu .
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+2:1			2:1			0		1.0
+3:1			3:1			0		1.0
+4:1			4:1			1		1.0
+6:1			8:1			0		1.0
+7:1			9:1			0		1.0
+
+Alignment	35	1.0	0.8	0.5223303379776745	0.39395436043078397
+he woke
+he woke up
+Line2Start:Length	Line1Start:Length	Module		Score
+0:1			0:1			0		1.0
+1:1			1:1			0		1.0
+

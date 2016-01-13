@@ -1,0 +1,23 @@
+Readme :
+
+The project requires NETBEANS IDE , MATLAB and MaryTTS engine to be installed in your system.
+
+To install maryTTS see this : http://mary.dfki.de/download/4.3.0/openmary-standalone-install-4.3.0.jar
+
+To install MATLAB see this : http://in.mathworks.com/support/install-matlab.html
+
+0. Open the Exported TTES directory in Eclipse IDE.
+
+1. Change the path of MaryTTS in the TTES.java file. (Line no-25 )
+
+2. Include the MATLAB files in a MATLAB folder.
+
+3. Point that MATLAB folder location in the voiceGenerator.java file (line no- 166,167,175 ) 
+
+4. Make sure that the location of Neo4j graph db which goes by the name tamil WordNet is specified in the WordNet communicator .java file correctly (line no-27).
+Import tamilwordnet.sql file (In code folder) to local mysql server.
+
+5. Run TTES.java file
+
+6. Use azhagi  to type the input and press translate to get output. Use earphones for better sound clarity.
+
